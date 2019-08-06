@@ -1,6 +1,6 @@
 #Create a class called School 
 class School 
-  
+  attr_accessor :name
 
 #Be able to initialize it with a name 
 
