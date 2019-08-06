@@ -12,3 +12,8 @@
 
 #add student to grade level key 
 #if key doesn't exist yet, create it 
+
+#point it to an empty value array 
+
+#if value array exists, add new value to it
+
