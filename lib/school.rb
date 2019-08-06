@@ -1,6 +1,11 @@
 #Create a class called School 
 class School 
   attr_accessor :name
+  def initialize(name)
+    @name = name 
+  end
+end 
+
 
 #Be able to initialize it with a name 
 
