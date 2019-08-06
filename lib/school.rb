@@ -17,3 +17,6 @@
 
 #if value array exists, add new value to it
 
+#Define new method accepting integer argument
+
+#return hash[:grade_level] if hash[:grade_level] == integer
