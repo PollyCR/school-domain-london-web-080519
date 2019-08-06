@@ -1,4 +1,6 @@
 #Create a class called School 
+class School 
+  
 
 #Be able to initialize it with a name 
 
